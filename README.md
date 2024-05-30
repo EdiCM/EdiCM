@@ -13,6 +13,7 @@ I'm Edith, also known as Edimon4884 on Codeforces. I'm a passionate software dev
 I'm Edith, a software developer with a keen interest in competitive programming and exploring new technologies. I enjoy coding in C++, Java, and Python, constantly honing my skills and tackling challenging problems on platforms like Codeforces. Currently diving into Number Theory, and Game Theory Algorithms, I'm always excited about learning and applying new concepts to my projects.
 
 Tech Stack
+
 Here are some technologies I'm familiar with:
 
  ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
