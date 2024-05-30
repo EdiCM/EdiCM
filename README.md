@@ -4,7 +4,7 @@ I'm Edith, also known as Edimon4884 on Codeforces. I'm a passionate software dev
 
 - 💻 Programming Languages: C++, Java, Python
 - 🏆 Competitive Programming Enthusiast
-- 🌱 Currently Learning: React, Number Theory, Game Theory Algorithms
+- 🌱 Currently Learning: Number Theory, Game Theory Algorithms
 - 💡 Solving Logic and Algorithm Problems on Codeforces
 - 🔧 Front-End Tech: HTML, CSS, JavaScript (The Trifecta!)
 - 🚀 Favorite Framework: Spring Boot
