@@ -1,12 +1,12 @@
 ## Hello World! 👋
 
-I'm Edith, also known as Edimon4884 on Codeforces. I'm a passionate software developer with a love for problem-solving and exploring new technologies. Here's a bit about me:
+I'm Edith, a passionate software developer with a love for problem-solving and exploring new technologies. Here's a bit about me:
 
 - 💻 Programming Languages: C++, Java, Python
 - 🏆 Competitive Programming Enthusiast
 - 🌱 Currently Learning: Number Theory, Game Theory Algorithms
-- 💡 Solving Logic and Algorithm Problems on Codeforces
-- 🔧 Front-End Tech: HTML, CSS, JavaScript (The Trifecta!)
+- 💡 Solving Logic and Algorithm Problems on Codeforces and LeetCode
+- 🔧 Front-End Tech: HTML, CSS, JavaScript
 - 🚀 Favorite Framework: Spring Boot
   
 ### About Me
